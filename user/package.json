@@ -1,0 +1,22 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "This project is a web-based dashboard application that provides student real-time analytics and data visualization. It offers a user-friendly interface for monitoring key metrics, generating reports, and making data-driven decisions. The dashboard integrates with various data sources and provides interactive charts and graphs for visualizing data trends. It is designed to help student result valuable insights and track performance efficiently.",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"script\": {"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horizon-ui/horizon-ui-chakra.git"
+  },
+  "keywords": [
+    "dashboard"
+  ],
+  "author": "Abhay",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/horizon-ui/horizon-ui-chakra/issues"
+  },
+  "homepage": "https://github.com/horizon-ui/horizon-ui-chakra#readme"
+}
